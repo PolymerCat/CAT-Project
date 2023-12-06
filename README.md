@@ -5,4 +5,14 @@
 ## we have to save the folder of the webpage on /var/www/ folder
 ## the code is
 
+//this code will start the server
 sudo systemctl start apache2
+
+//this code will restart the server
+sudo systemctl restart apache2
+
+//this code will stop the server
+sudo systemctl stop apache2
+
+//this code will display the status of the server
+sudo systemctl statue apache2
