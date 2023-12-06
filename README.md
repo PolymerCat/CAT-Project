@@ -6,13 +6,13 @@
 ## the code is
 
 //this code will start the server
-sudo systemctl start apache2
+"sudo systemctl start apache2"
 
 //this code will restart the server
-sudo systemctl restart apache2
+"sudo systemctl restart apache2"
 
 //this code will stop the server
-sudo systemctl stop apache2
+"sudo systemctl stop apache2"
 
 //this code will display the status of the server
-sudo systemctl statue apache2
+"sudo systemctl statue apache2"
